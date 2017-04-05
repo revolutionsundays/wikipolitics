@@ -1,7 +1,5 @@
 
 [Meta](meta.md)
-
-Content
 * [Goals of Society](goals.md)
 * [Policies of Society](policies.md)
    * Basic Needs
