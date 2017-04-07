@@ -1,6 +1,7 @@
 # Summary
-## Overview
-* [Meta](meta.md)
+## Meta
+* [Overview of the Project](meta.md)
+* [How to Contribute](contributing.md)
 
 ## Goals of Society
 * [Intro](goals/intro.md)
