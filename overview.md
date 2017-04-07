@@ -1,4 +1,4 @@
-# META
+# Overview
 
 ## Goal 
 A participatory, meritocratic, social policy decision preparation system.
