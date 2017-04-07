@@ -12,7 +12,7 @@
 * [Beyond basic needs](policies/beyondbasic.md)
 
 ## Decision-making systems of Society
-* [Intro](decisionmaking.md)
+* [Intro](decisionmaking/intro.md)
 * Political Jury Service
 * Representative Democracy
 * Direct Democracy
