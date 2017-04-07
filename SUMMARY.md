@@ -4,22 +4,13 @@
 * [How to Contribute](meta/contributing.md)
 
 ## Goals of Society
-* [Intro](goals/intro.md)
+* [Overview](goals/intro.md)
 
 ## Policies of Society
-* [Intro](policies/intro.md)
+* [Overview](policies/intro.md)
 * [Meeting Basic Needs](policies/basicneeds.md)
 * [Beyond basic needs](policies/beyondbasic.md)
 
-## [Decision-making systems of Society](decisionmaking/intro.md)
-* [Intro](decisionmaking/intro.md)
-* Political Jury Service
-* Representative Democracy
-* Direct Democracy
-* Dictatorship
-* Aristocracy 
-* Plutocracy 
-* Communism
-* Democratic Confederalism
-* Communal Councils
-* Liquid Democracy
+## Decision-making systems of Society
+* [Overview](decisionmaking/intro.md)
+* [Different systems](decisionmaking/systems.md)
