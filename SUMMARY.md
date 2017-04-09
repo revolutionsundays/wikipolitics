@@ -5,7 +5,6 @@
 * [Introduction](README.md)
 * [Overview of the Project](meta/overview.md)
 * [How to Contribute](meta/contributing.md)
-* Sourcing and Distributing Food
 
 ## Goals of Society
 
@@ -15,6 +14,7 @@
 
 * [Overview](policies/intro.md)
 * [Meeting Basic Needs](policies/basicneeds.md)
+* [Sourcing and Distributing Food](policies/sourcing-and-distributing-food.md)
 * [Beyond basic needs](policies/beyondbasic.md)
 
 ## Decision-making systems of Society
