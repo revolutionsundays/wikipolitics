@@ -4,9 +4,9 @@ Concepts such as carbon footprints and food miles, humane treatment of animals, 
 
 The United Nations World Commission on Environment and Development defines sustainability as_ “ensuring that we meet our needs without compromising the ability of future generations to meet their own needs.”_
 
-## Axes of impact 
+## [Axes of impact](http://www.aashe.org/resources/pdf/food_policy_guide.pdf)
 
-_\[source: taken from http://www.aashe.org/\]_
+_\[source: taken from _[http://www.aashe.org/](http://www.aashe.org/\)_\]_
 
 **Labor issues** – Agriculture and food processing are among the most difficult, most dangerous, and lowest paid occupations in the US.
 
@@ -31,6 +31,10 @@ _\[source: taken from http://www.aashe.org/\]_
 **Food quality and safety** – Concerns have been raised for food additives used to extend shelf‐life or enhance color and flavor, for contaminants, and for food‐borne illnesses like e‐coli.
 
 **Diet‐related health concerns** – Diet is closely linked with the increasing incidence of obesity, diabetes, high blood pressure, and other preventable causes of sickness and death.
+
+
+
+
 
 #### This is impossible to assess in a way that is generalizable for all geographic locations, so here we use San Francisco as an example.
 
