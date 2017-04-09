@@ -18,7 +18,7 @@ A participatory, meritocratic, social policy decision preparation system.
 
 ## Not for
 
-* Decision making -- the actual decison making within any society is up to them. Wikipolitics is just a reference for information and only one process for developing that reference. 
+* Decision making -- the actual decision making within any society is up to them. Wikipolitics is just a reference for information and only one process for developing that reference. 
 
 
 
